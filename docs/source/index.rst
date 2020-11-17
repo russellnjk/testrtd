@@ -10,7 +10,8 @@ Welcome to testrtd-master's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+examples
+myscripy
 
 Indices and tables
 ==================
