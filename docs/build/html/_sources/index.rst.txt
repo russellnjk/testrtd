@@ -9,7 +9,14 @@ Welcome to testrtd-master's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   examples
+   myscripy
+   examples.rst
+   myscripy.rst
+   
+examples.rst
+myscripy.rst
 examples
 myscripy
 
