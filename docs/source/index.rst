@@ -10,15 +10,9 @@ Welcome to testrtd-master's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   examples
-   myscripy
-   examples.rst
-   myscripy.rst
+   modules
    
-examples.rst
-myscripy.rst
-examples
-myscripy
+
 
 Indices and tables
 ==================
